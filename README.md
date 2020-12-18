@@ -1,1 +1,1 @@
-# js-course-1
+# Main branch for JavaScript learning
