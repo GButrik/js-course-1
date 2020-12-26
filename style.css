@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.resultBox {
+    padding: 10px;
+    margin: 20px auto;
+    background-color: #eee;
+    border-radius: 30px;
+}
+p {
+    font-size: 1.2em;
+    padding-bottom: 10px;
+}
+
+.result {
+    padding: 20px;
+    font-size: 1.5em;
+}
