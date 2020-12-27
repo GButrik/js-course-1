@@ -1,1 +1,1 @@
-# Main branch for JavaScript learning
+# Rock, Scissors, Paper, Lizard, Spock game (v 1.0)
